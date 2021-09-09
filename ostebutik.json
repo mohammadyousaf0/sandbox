@@ -1,16 +1,33 @@
 {
-    "briansostebutik":{
-        "varer": [{
-            "varenummer": 543,
-            "varenavn": "ostehaps",
-            "pris": {
-                "pris": 50,
-                "valuta": "dkk"
-            },
-            "antal": 25,
-            "beskrivelse": "Søde og sure ostehaps!",
-            "lagerbeholdning": 2345,
-            "billede": "ostehaps.jpeg"
-        }]
-    }
+  "briansostebutik": {
+    "varer": [
+      {
+        "varenummer": 543,
+        "varenavn": "ostehaps",
+        "pris": {
+          "pris": 50,
+          "valuta": "dkk"
+        },
+        "antal": 25,
+        "beskrivelse": "Søde og sure ostehaps!",
+        "lagerbeholdning": 2345,
+        "billede": ["lillebror.jpeg", "lillebrorembalage"],
+        "tilbud": true
+      },
+      {
+        "varenummer": 765,
+        "varenavn": "ost",
+        "pris": {
+          "pris": 20,
+          "valuta": "euro"
+        },
+        "antal": 25,
+        "beskrivelse": "Søde og sure ostehaps!",
+        "lagerbeholdning": 45,
+        "billede": ["ost1.jpeg", "ost2.jpeg"],
+        "tilbud": true
+      }
+    ]
+  }
 }
+
