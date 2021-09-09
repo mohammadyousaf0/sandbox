@@ -1,0 +1,16 @@
+{
+    "briansostebutik":{
+        "varer": [{
+            "varenummer": 543,
+            "varenavn": "ostehaps",
+            "pris": {
+                "pris": 50,
+                "valuta": "dkk"
+            },
+            "antal": 25,
+            "beskrivelse": "Søde og sure ostehaps!",
+            "lagerbeholdning": 2345,
+            "billede": "ostehaps.jpeg"
+        }]
+    }
+}
