@@ -1,0 +1,14 @@
+{
+    "Mohammad": {
+        "alder": 16,
+        "køn": "mand",
+        "højde": {
+            "højde": 182,
+            "målenhed": "cm"
+        },
+        "øjenfarve": "sort",
+        "fornavn": "Mohammad",
+        "mellemnavne": "Jakob",
+        "strømpefarve": "grøn"
+    }
+}
